@@ -85,38 +85,9 @@ Confirm correct board and port are selected.
 
 ✅ 4. Connect Sensors to Arduino
 🔹 Turbidity Sensor
-
-VCC → 5V
-
-GND → GND
-
-OUT → A0
-
 🔹 pH Sensor (REECOMMENDATION: USE SEPERATE 5V BATTERY FOR ph)
-
-VCC → 5V
-
-GND → GND
-
-Analog Out → A1
-
 🔹 Gas Sensor (MQ)
-
-VCC → 5V
-
-GND → GND
-
-Analog Out → A2
-
 🔹 GPS Module (Optional)
-
-VCC → 5V
-
-GND → GND
-
-TX → RX
-
-RX → TX
 
 ✅ 5. Write / Paste the Code
 
